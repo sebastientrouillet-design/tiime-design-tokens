@@ -4313,9 +4313,9 @@
                 "FRAME_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--stateinvoice-background-secondary-invoiced)",
-                "ANDROID": "var(--stateinvoice-background-secondary-invoiced)",
-                "iOS": "var(--stateinvoice-background-secondary-invoiced)"
+                "WEB": "var(--color-stateinvoice-background-secondary-invoiced)",
+                "ANDROID": "var(--color-stateinvoice-background-secondary-invoiced)",
+                "iOS": "var(--color-stateinvoice-background-secondary-invoiced)"
               }
             }
           }
@@ -4331,9 +4331,9 @@
                 "FRAME_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--stateinvoice-background-secondary-to-cleared)",
-                "ANDROID": "var(--stateinvoice-background-secondary-to-cleared)",
-                "iOS": "var(--stateinvoice-background-secondary-to-cleared)"
+                "WEB": "var(--color-stateinvoice-background-secondary-to-cleared)",
+                "ANDROID": "var(--color-stateinvoice-background-secondary-to-cleared)",
+                "iOS": "var(--color-stateinvoice-background-secondary-to-cleared)"
               }
             }
           }
@@ -4349,9 +4349,9 @@
                 "FRAME_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--stateinvoice-background-secondary-sent)",
-                "ANDROID": "var(--stateinvoice-background-secondary-sent)",
-                "iOS": "var(--stateinvoice-background-secondary-sent)"
+                "WEB": "var(--color-stateinvoice-background-secondary-sent)",
+                "ANDROID": "var(--color-stateinvoice-background-secondary-sent)",
+                "iOS": "var(--color-stateinvoice-background-secondary-sent)"
               }
             }
           }
@@ -4367,9 +4367,9 @@
                 "FRAME_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--stateinvoice-background-secondary-draft)",
-                "ANDROID": "var(--stateinvoice-background-secondary-draft)",
-                "iOS": "var(--stateinvoice-background-secondary-draft)"
+                "WEB": "var(--color-stateinvoice-background-secondary-draft)",
+                "ANDROID": "var(--color-stateinvoice-background-secondary-draft)",
+                "iOS": "var(--color-stateinvoice-background-secondary-draft)"
               }
             }
           }
@@ -4385,9 +4385,9 @@
                 "FRAME_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--stateinvoice-background-secondary-canceled)",
-                "ANDROID": "var(--stateinvoice-background-secondary-canceled)",
-                "iOS": "var(--stateinvoice-background-secondary-canceled)"
+                "WEB": "var(--color-stateinvoice-background-secondary-canceled)",
+                "ANDROID": "var(--color-stateinvoice-background-secondary-canceled)",
+                "iOS": "var(--color-stateinvoice-background-secondary-canceled)"
               }
             }
           }
@@ -4403,9 +4403,9 @@
                 "FRAME_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--stateinvoice-background-secondary-paid)",
-                "ANDROID": "var(--stateinvoice-background-secondary-paid)",
-                "iOS": "var(--stateinvoice-background-secondary-paid)"
+                "WEB": "var(--color-stateinvoice-background-secondary-paid)",
+                "ANDROID": "var(--color-stateinvoice-background-secondary-paid)",
+                "iOS": "var(--color-stateinvoice-background-secondary-paid)"
               }
             }
           }
@@ -4421,9 +4421,9 @@
                 "FRAME_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--stateinvoice-background-secondary-approved)",
-                "ANDROID": "var(--stateinvoice-background-secondary-approved)",
-                "iOS": "var(--stateinvoice-background-secondary-approved)"
+                "WEB": "var(--color-stateinvoice-background-secondary-approved)",
+                "ANDROID": "var(--color-stateinvoice-background-secondary-approved)",
+                "iOS": "var(--color-stateinvoice-background-secondary-approved)"
               }
             }
           }
@@ -4439,9 +4439,9 @@
                 "FRAME_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--stateinvoice-background-secondary-partially-approved)",
-                "ANDROID": "var(--stateinvoice-background-secondary-partially-approved)",
-                "iOS": "var(--stateinvoice-background-secondary-partially-approved)"
+                "WEB": "var(--color-stateinvoice-background-secondary-partially-approved)",
+                "ANDROID": "var(--color-stateinvoice-background-secondary-partially-approved)",
+                "iOS": "var(--color-stateinvoice-background-secondary-partially-approved)"
               }
             }
           }
@@ -4457,9 +4457,9 @@
                 "FRAME_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--stateinvoice-background-secondary-payment-submitted)",
-                "ANDROID": "var(--stateinvoice-background-secondary-payment-submitted)",
-                "iOS": "var(--stateinvoice-background-secondary-payment-submitted)"
+                "WEB": "var(--color-stateinvoice-background-secondary-payment-submitted)",
+                "ANDROID": "var(--color-stateinvoice-background-secondary-payment-submitted)",
+                "iOS": "var(--color-stateinvoice-background-secondary-payment-submitted)"
               }
             }
           }
@@ -4475,9 +4475,9 @@
                 "FRAME_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--stateinvoice-background-secondary-completed)",
-                "ANDROID": "var(--stateinvoice-background-secondary-completed)",
-                "iOS": "var(--stateinvoice-background-secondary-completed)"
+                "WEB": "var(--color-stateinvoice-background-secondary-completed)",
+                "ANDROID": "var(--color-stateinvoice-background-secondary-completed)",
+                "iOS": "var(--color-stateinvoice-background-secondary-completed)"
               }
             }
           }
@@ -4493,9 +4493,9 @@
                 "FRAME_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--stateinvoice-background-secondary-dispute)",
-                "ANDROID": "var(--stateinvoice-background-secondary-dispute)",
-                "iOS": "var(--stateinvoice-background-secondary-dispute)"
+                "WEB": "var(--color-stateinvoice-background-secondary-dispute)",
+                "ANDROID": "var(--color-stateinvoice-background-secondary-dispute)",
+                "iOS": "var(--color-stateinvoice-background-secondary-dispute)"
               }
             }
           }
@@ -4511,9 +4511,9 @@
                 "FRAME_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--stateinvoice-background-secondary-suspended)",
-                "ANDROID": "var(--stateinvoice-background-secondary-suspended)",
-                "iOS": "var(--stateinvoice-background-secondary-suspended)"
+                "WEB": "var(--color-stateinvoice-background-secondary-suspended)",
+                "ANDROID": "var(--color-stateinvoice-background-secondary-suspended)",
+                "iOS": "var(--color-stateinvoice-background-secondary-suspended)"
               }
             }
           }
@@ -4529,9 +4529,9 @@
                 "FRAME_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--stateinvoice-background-secondary-received)",
-                "ANDROID": "var(--stateinvoice-background-secondary-received)",
-                "iOS": "var(--stateinvoice-background-secondary-received)"
+                "WEB": "var(--color-stateinvoice-background-secondary-received)",
+                "ANDROID": "var(--color-stateinvoice-background-secondary-received)",
+                "iOS": "var(--color-stateinvoice-background-secondary-received)"
               }
             }
           }
@@ -4547,9 +4547,9 @@
                 "FRAME_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--stateinvoice-background-secondary-declined)",
-                "ANDROID": "var(--stateinvoice-background-secondary-declined)",
-                "iOS": "var(--stateinvoice-background-secondary-declined)"
+                "WEB": "var(--color-stateinvoice-background-secondary-declined)",
+                "ANDROID": "var(--color-stateinvoice-background-secondary-declined)",
+                "iOS": "var(--color-stateinvoice-background-secondary-declined)"
               }
             }
           }
@@ -4565,9 +4565,9 @@
                 "FRAME_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--stateinvoice-background-secondary-rejected)",
-                "ANDROID": "var(--stateinvoice-background-secondary-rejected)",
-                "iOS": "var(--stateinvoice-background-secondary-rejected)"
+                "WEB": "var(--color-stateinvoice-background-secondary-rejected)",
+                "ANDROID": "var(--color-stateinvoice-background-secondary-rejected)",
+                "iOS": "var(--color-stateinvoice-background-secondary-rejected)"
               }
             }
           }
