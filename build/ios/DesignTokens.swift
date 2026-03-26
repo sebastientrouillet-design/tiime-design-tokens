@@ -9,7 +9,6 @@
 import UIKit
 
 public class {
-    public static let amountAvailable = 4
     public static let apple100 = UIColor(red: 0.800, green: 0.929, blue: 0.584, alpha: 1)
     public static let apple20 = UIColor(red: 0.953, green: 0.984, blue: 0.906, alpha: 1)
     public static let apple200 = UIColor(red: 0.584, green: 0.851, blue: 0.149, alpha: 1)
@@ -94,7 +93,6 @@ public class {
     public static let backgroundWarningInverted = UIColor(red: 0.831, green: 0.643, blue: 0.141, alpha: 1)
     public static let blurPrimary = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 0.8)
     public static let borderActive = UIColor(red: 0.204, green: 0.282, blue: 0.392, alpha: 1)
-    public static let borderBorderPrimary = UIColor(red: 0.125, green: 0.125, blue: 0.125, alpha: 1)
     public static let borderDefaut = UIColor(red: 0.863, green: 0.882, blue: 0.910, alpha: 1)
     public static let borderError = UIColor(red: 0.886, green: 0.165, blue: 0.165, alpha: 1)
     public static let borderHighlight = UIColor(red: 0.204, green: 0.494, blue: 0.616, alpha: 1)
@@ -166,7 +164,6 @@ public class {
     public static let brandTextPrimaryRegistre = UIColor(red: 1.000, green: 0.541, blue: 0.408, alpha: 1)
     public static let brandTextPrimaryTiime = UIColor(red: 0.267, green: 0.373, blue: 0.514, alpha: 1)
     public static let brandTextPrimaryTransaction = UIColor(red: 0.290, green: 0.714, blue: 0.886, alpha: 1)
-    public static let cartButtonText = Available
     public static let cloudBlue100 = UIColor(red: 0.737, green: 0.910, blue: 0.976, alpha: 1)
     public static let cloudBlue20 = UIColor(red: 0.941, green: 0.980, blue: 0.996, alpha: 1)
     public static let cloudBlue200 = UIColor(red: 0.486, green: 0.820, blue: 0.957, alpha: 1)
@@ -178,17 +175,6 @@ public class {
     public static let cloudBlue700 = UIColor(red: 0.137, green: 0.298, blue: 0.361, alpha: 1)
     public static let cloudBlue800 = UIColor(red: 0.094, green: 0.200, blue: 0.247, alpha: 1)
     public static let cloudBlue900 = UIColor(red: 0.051, green: 0.114, blue: 0.141, alpha: 1)
-    public static let colorBrandCherry = UIColor(red: 1.000, green: 0.620, blue: 0.671, alpha: 1)
-    public static let colorBrandMushroom = UIColor(red: 0.945, green: 0.827, blue: 0.404, alpha: 1)
-    public static let colorBrandPear = UIColor(red: 0.871, green: 0.953, blue: 0.345, alpha: 1)
-    public static let colorBrandRadish = UIColor(red: 1.000, green: 0.796, blue: 0.718, alpha: 1)
-    public static let colorBrandWatermelon = UIColor(red: 0.490, green: 0.722, blue: 0.663, alpha: 1)
-    public static let colorGray200 = UIColor(red: 0.827, green: 0.827, blue: 0.827, alpha: 1)
-    public static let colorGray400 = UIColor(red: 0.686, green: 0.686, blue: 0.686, alpha: 1)
-    public static let colorGray50 = UIColor(red: 0.945, green: 0.945, blue: 0.945, alpha: 1)
-    public static let colorGray600 = UIColor(red: 0.486, green: 0.486, blue: 0.486, alpha: 1)
-    public static let colorGray800 = UIColor(red: 0.204, green: 0.204, blue: 0.204, alpha: 1)
-    public static let colorGray900 = UIColor(red: 0.125, green: 0.125, blue: 0.125, alpha: 1)
     public static let dropShadowElevation1Blur = 4
     public static let dropShadowElevation1PositionX = 0
     public static let dropShadowElevation1PositionY = 0
@@ -250,7 +236,6 @@ public class {
     public static let green700 = UIColor(red: 0.078, green: 0.318, blue: 0.169, alpha: 1)
     public static let green800 = UIColor(red: 0.055, green: 0.216, blue: 0.114, alpha: 1)
     public static let green900 = UIColor(red: 0.031, green: 0.122, blue: 0.067, alpha: 1)
-    public static let hasCart = false
     public static let iconActive = UIColor(red: 0.204, green: 0.282, blue: 0.392, alpha: 1)
     public static let iconDisabled = UIColor(red: 0.741, green: 0.780, blue: 0.831, alpha: 1)
     public static let iconError = UIColor(red: 0.886, green: 0.165, blue: 0.165, alpha: 1)
@@ -323,7 +308,6 @@ public class {
     public static let interactiveTextTertiaryAccent = UIColor(red: 0.373, green: 0.471, blue: 0.596, alpha: 1)
     public static let interactiveTextTertiaryError = UIColor(red: 0.373, green: 0.471, blue: 0.596, alpha: 1)
     public static let interactiveTextTertiaryNeutral = UIColor(red: 0.373, green: 0.471, blue: 0.596, alpha: 1)
-    public static let isAvailable = true
     public static let lavender100 = UIColor(red: 0.918, green: 0.855, blue: 1.000, alpha: 1)
     public static let lavender20 = UIColor(red: 0.984, green: 0.969, blue: 1.000, alpha: 1)
     public static let lavender200 = UIColor(red: 0.839, green: 0.725, blue: 1.000, alpha: 1)
@@ -387,15 +371,6 @@ public class {
     public static let purple700 = UIColor(red: 0.373, green: 0.216, blue: 0.427, alpha: 1)
     public static let purple800 = UIColor(red: 0.251, green: 0.145, blue: 0.290, alpha: 1)
     public static let purple900 = UIColor(red: 0.145, green: 0.082, blue: 0.165, alpha: 1)
-    public static let radius2xl = 128
-    public static let radius3xl = 360
-    public static let radiusLg = 16
-    public static let radiusMd = 8
-    public static let radiusRadiusFull = 360
-    public static let radiusRadiusMinimal = 4
-    public static let radiusRadiusRounded = 8
-    public static let radiusSm = 4
-    public static let radiusXl = 32
     public static let red100 = UIColor(red: 0.992, green: 0.847, blue: 0.847, alpha: 1)
     public static let red20 = UIColor(red: 1.000, green: 0.965, blue: 0.965, alpha: 1)
     public static let red200 = UIColor(red: 0.984, green: 0.702, blue: 0.702, alpha: 1)
@@ -444,35 +419,14 @@ public class {
     public static let sizeSm = 14
     public static let sizeXl = 22
     public static let sizeXs = 12
-    public static let spacing1 = 8
-    public static let spacing10 = 80
-    public static let spacing11 = 88
-    public static let spacing12 = 96
-    public static let spacing13 = 104
-    public static let spacing2 = 16
     public static let spacing2xl = 32
     public static let spacing2xs = 4
-    public static let spacing3 = 24
     public static let spacing3xl = 40
     public static let spacing3xs = 2
-    public static let spacing4 = 32
-    public static let spacing5 = 40
-    public static let spacing6 = 48
-    public static let spacing7 = 56
-    public static let spacing8 = 64
-    public static let spacing9 = 72
-    public static let spacingHalf = 4
     public static let spacingL = 20
     public static let spacingM = 16
     public static let spacingNone = 0
     public static let spacingS = 12
-    public static let spacingSpacing2xl = 104
-    public static let spacingSpacingLg = 32
-    public static let spacingSpacingMd = 24
-    public static let spacingSpacingNone = 0
-    public static let spacingSpacingSm = 8
-    public static let spacingSpacingXl = 48
-    public static let spacingSpacingXs = 4
     public static let spacingXl = 24
     public static let spacingXs = 8
     public static let statecardsBorderActive = UIColor(red: 0.431, green: 0.624, blue: 0.110, alpha: 1)
@@ -734,10 +688,6 @@ public class {
     public static let statetreasuryIconBalance = UIColor(red: 0.373, green: 0.471, blue: 0.596, alpha: 1)
     public static let statetreasuryIconPayin = UIColor(red: 0.506, green: 0.737, blue: 0.129, alpha: 1)
     public static let statetreasuryIconPayout = UIColor(red: 1.000, green: 0.541, blue: 0.408, alpha: 1)
-    public static let surfaceSurfaceBrand = UIColor(red: 0.490, green: 0.722, blue: 0.663, alpha: 1)
-    public static let surfaceSurfaceInvert = UIColor(red: 0.125, green: 0.125, blue: 0.125, alpha: 1)
-    public static let surfaceSurfacePrimary = UIColor(red: 0.945, green: 0.945, blue: 0.945, alpha: 1)
-    public static let surfaceSurfaceSecodary = UIColor(red: 0.204, green: 0.204, blue: 0.204, alpha: 1)
     public static let textActive = UIColor(red: 0.204, green: 0.282, blue: 0.392, alpha: 1)
     public static let textDisabled = UIColor(red: 0.741, green: 0.780, blue: 0.831, alpha: 1)
     public static let textError = UIColor(red: 0.886, green: 0.165, blue: 0.165, alpha: 1)
@@ -755,10 +705,6 @@ public class {
     public static let textSuccess = UIColor(red: 0.431, green: 0.624, blue: 0.110, alpha: 1)
     public static let textSuccessInverted = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let textTertiary = UIColor(red: 0.616, green: 0.675, blue: 0.753, alpha: 1)
-    public static let textTextBrand = UIColor(red: 0.125, green: 0.125, blue: 0.125, alpha: 1)
-    public static let textTextInvert = UIColor(red: 0.945, green: 0.945, blue: 0.945, alpha: 1)
-    public static let textTextPrimary = UIColor(red: 0.125, green: 0.125, blue: 0.125, alpha: 1)
-    public static let textTextSecondary = UIColor(red: 0.486, green: 0.486, blue: 0.486, alpha: 1)
     public static let textWarning = UIColor(red: 0.706, green: 0.545, blue: 0.122, alpha: 1)
     public static let textWarningInverted = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let water100 = UIColor(red: 0.820, green: 0.886, blue: 1.000, alpha: 1)
