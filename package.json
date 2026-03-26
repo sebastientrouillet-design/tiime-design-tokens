@@ -12,6 +12,7 @@
     "dotenv": "^16.3.1",
     "tsx": "^4.16.2",
     "typescript": "^5.1.6"
+    "style-dictionary": "^4.0.0"
   },
   "devDependencies": {
     "@figma/rest-api-spec": "^0.10.0",
