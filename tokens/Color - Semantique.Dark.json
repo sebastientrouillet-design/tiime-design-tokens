@@ -4156,7 +4156,7 @@
             }
           }
         },
-        "partially approved": {
+        "partiallyapproved": {
           "$type": "color",
           "$value": "{apple.600}",
           "$description": "",
@@ -4167,14 +4167,14 @@
                 "FRAME_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--color-stateinvoice-background-partially-approved)",
-                "ANDROID": "var(--color-stateinvoice-background-partially-approved)",
-                "iOS": "var(--color-stateinvoice-background-partially-approved)"
+                "WEB": "var(--color-stateinvoice-background-partiallyapproved)",
+                "ANDROID": "var(--color-stateinvoice-background-partiallyapproved)",
+                "iOS": "var(--color-stateinvoice-background-partiallyapproved)"
               }
             }
           }
         },
-        "payment submitted": {
+        "paymentsubmitted": {
           "$type": "color",
           "$value": "{apple.600}",
           "$description": "",
@@ -4428,7 +4428,7 @@
             }
           }
         },
-        "partially approved": {
+        "partiallyapproved": {
           "$type": "color",
           "$value": "{apple.200}",
           "$description": "",
@@ -4439,14 +4439,14 @@
                 "FRAME_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--color-stateinvoice-background-secondary-partially-approved)",
-                "ANDROID": "var(--color-stateinvoice-background-secondary-partially-approved)",
-                "iOS": "var(--color-stateinvoice-background-secondary-partially-approved)"
+                "WEB": "var(--color-stateinvoice-background-secondary-partiallyapproved)",
+                "ANDROID": "var(--color-stateinvoice-background-secondary-partiallyapproved)",
+                "iOS": "var(--color-stateinvoice-background-secondary-partiallyapproved)"
               }
             }
           }
         },
-        "payment submitted": {
+        "paymentsubmitted": {
           "$type": "color",
           "$value": "{apple.200}",
           "$description": "",
@@ -4457,9 +4457,9 @@
                 "FRAME_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--color-stateinvoice-background-secondary-payment-submitted)",
-                "ANDROID": "var(--color-stateinvoice-background-secondary-payment-submitted)",
-                "iOS": "var(--color-stateinvoice-background-secondary-payment-submitted)"
+                "WEB": "var(--color-stateinvoice-background-secondary-paymentsubmitted)",
+                "ANDROID": "var(--color-stateinvoice-background-secondary-paymentsubmitted)",
+                "iOS": "var(--color-stateinvoice-background-secondary-paymentsubmitted)"
               }
             }
           }
@@ -4702,7 +4702,7 @@
             }
           }
         },
-        "partially approved": {
+        "partiallyapproved": {
           "$type": "color",
           "$value": "{apple.200}",
           "$description": "",
@@ -4713,14 +4713,14 @@
                 "SHAPE_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--color-stateinvoice-icon-partially-approved)",
-                "ANDROID": "var(--color-stateinvoice-icon-partially-approved)",
-                "iOS": "var(--color-stateinvoice-icon-partially-approved)"
+                "WEB": "var(--color-stateinvoice-icon-partiallyapproved)",
+                "ANDROID": "var(--color-stateinvoice-icon-partiallyapproved)",
+                "iOS": "var(--color-stateinvoice-icon-partiallyapproved)"
               }
             }
           }
         },
-        "payment submitted": {
+        "paymentsubmitted": {
           "$type": "color",
           "$value": "{apple.200}",
           "$description": "",
@@ -4731,9 +4731,9 @@
                 "SHAPE_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--color-stateinvoice-icon-payment-submitted)",
-                "ANDROID": "var(--color-stateinvoice-icon-payment-submitted)",
-                "iOS": "var(--color-stateinvoice-icon-payment-submitted)"
+                "WEB": "var(--color-stateinvoice-icon-paymentsubmitted)",
+                "ANDROID": "var(--color-stateinvoice-icon-paymentsubmitted)",
+                "iOS": "var(--color-stateinvoice-icon-paymentsubmitted)"
               }
             }
           }
@@ -4974,7 +4974,7 @@
             }
           }
         },
-        "partially approved": {
+        "partiallyapproved": {
           "$type": "color",
           "$value": "{apple.400}",
           "$description": "",
@@ -4985,14 +4985,14 @@
                 "SHAPE_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--color-stateinvoice-icon-partially-approved)",
-                "ANDROID": "var(--color-stateinvoice-icon-partially-approved)",
-                "iOS": "var(--color-stateinvoice-icon-partially-approved)"
+                "WEB": "var(--color-stateinvoice-icon-partiallyapproved)",
+                "ANDROID": "var(--color-stateinvoice-icon-partiallyapproved)",
+                "iOS": "var(--color-stateinvoice-icon-partiallyapproved)"
               }
             }
           }
         },
-        "payment submitted": {
+        "paymentsubmitted": {
           "$type": "color",
           "$value": "{apple.400}",
           "$description": "",
@@ -5003,9 +5003,9 @@
                 "SHAPE_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--color-stateinvoice-icon-payment-submitted)",
-                "ANDROID": "var(--color-stateinvoice-icon-payment-submitted)",
-                "iOS": "var(--color-stateinvoice-icon-payment-submitted)"
+                "WEB": "var(--color-stateinvoice-icon-paymentsubmitted)",
+                "ANDROID": "var(--color-stateinvoice-icon-paymentsubmitted)",
+                "iOS": "var(--color-stateinvoice-icon-paymentsubmitted)"
               }
             }
           }
@@ -5248,7 +5248,7 @@
             }
           }
         },
-        "partially approved": {
+        "partiallyapproved": {
           "$type": "color",
           "$value": "{apple.200}",
           "$description": "",
@@ -5259,14 +5259,14 @@
                 "STROKE_COLOR"
               ],
               "codeSyntax": {
-                "WEB": "var(--color-stateinvoice-border-partially-approved)",
-                "ANDROID": "var(--color-stateinvoice-border-partially-approved)",
-                "iOS": "var(--color-stateinvoice-border-partially-approved)"
+                "WEB": "var(--color-stateinvoice-border-partiallyapproved)",
+                "ANDROID": "var(--color-stateinvoice-border-partiallyapproved)",
+                "iOS": "var(--color-stateinvoice-border-partiallyapproved)"
               }
             }
           }
         },
-        "payment submitted": {
+        "paymentsubmitted": {
           "$type": "color",
           "$value": "{apple.200}",
           "$description": "",
@@ -5277,9 +5277,9 @@
                 "STROKE_COLOR"
               ],
               "codeSyntax": {
-                "WEB": "var(--color-stateinvoice-border-payment-submitted)",
-                "ANDROID": "var(--color-stateinvoice-border-payment-submitted)",
-                "iOS": "var(--color-stateinvoice-border-payment-submitted)"
+                "WEB": "var(--color-stateinvoice-border-paymentsubmitted)",
+                "ANDROID": "var(--color-stateinvoice-border-paymentsubmitted)",
+                "iOS": "var(--color-stateinvoice-border-paymentsubmitted)"
               }
             }
           }
@@ -5522,7 +5522,7 @@
             }
           }
         },
-        "partially approved": {
+        "partiallyapproved": {
           "$type": "color",
           "$value": "{apple.200}",
           "$description": "",
@@ -5533,14 +5533,14 @@
                 "TEXT_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--color-stateinvoice-text-partially-approved)",
-                "ANDROID": "var(--color-stateinvoice-text-partially-approved)",
-                "iOS": "var(--color-stateinvoice-text-partially-approved)"
+                "WEB": "var(--color-stateinvoice-text-partiallyapproved)",
+                "ANDROID": "var(--color-stateinvoice-text-partiallyapproved)",
+                "iOS": "var(--color-stateinvoice-text-partiallyapproved)"
               }
             }
           }
         },
-        "payment submitted": {
+        "paymentsubmitted": {
           "$type": "color",
           "$value": "{apple.200}",
           "$description": "",
@@ -5551,9 +5551,9 @@
                 "TEXT_FILL"
               ],
               "codeSyntax": {
-                "WEB": "var(--color-stateinvoice-text-payment-submitted)",
-                "ANDROID": "var(--color-stateinvoice-text-payment-submitted)",
-                "iOS": "var(--color-stateinvoice-text-payment-submitted)"
+                "WEB": "var(--color-stateinvoice-text-paymentsubmitted)",
+                "ANDROID": "var(--color-stateinvoice-text-paymentsubmitted)",
+                "iOS": "var(--color-stateinvoice-text-paymentsubmitted)"
               }
             }
           }
