@@ -4300,6 +4300,278 @@
             }
           }
         }
+      },
+      "secondary": {
+        "invoiced": {
+          "$type": "color",
+          "$value": "{plum.200}",
+          "$description": "",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FRAME_FILL"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--stateinvoice-background-secondary-invoiced)",
+                "ANDROID": "var(--stateinvoice-background-secondary-invoiced)",
+                "iOS": "var(--stateinvoice-background-secondary-invoiced)"
+              }
+            }
+          }
+        },
+        "to cleared": {
+          "$type": "color",
+          "$value": "{yellow.50}",
+          "$description": "",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FRAME_FILL"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--stateinvoice-background-secondary-to-cleared)",
+                "ANDROID": "var(--stateinvoice-background-secondary-to-cleared)",
+                "iOS": "var(--stateinvoice-background-secondary-to-cleared)"
+              }
+            }
+          }
+        },
+        "sent": {
+          "$type": "color",
+          "$value": "{azure.100}",
+          "$description": "",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FRAME_FILL"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--stateinvoice-background-secondary-sent)",
+                "ANDROID": "var(--stateinvoice-background-secondary-sent)",
+                "iOS": "var(--stateinvoice-background-secondary-sent)"
+              }
+            }
+          }
+        },
+        "draft": {
+          "$type": "color",
+          "$value": "{gray cold.200}",
+          "$description": "",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FRAME_FILL"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--stateinvoice-background-secondary-draft)",
+                "ANDROID": "var(--stateinvoice-background-secondary-draft)",
+                "iOS": "var(--stateinvoice-background-secondary-draft)"
+              }
+            }
+          }
+        },
+        "canceled": {
+          "$type": "color",
+          "$value": "{red.200}",
+          "$description": "",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FRAME_FILL"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--stateinvoice-background-secondary-canceled)",
+                "ANDROID": "var(--stateinvoice-background-secondary-canceled)",
+                "iOS": "var(--stateinvoice-background-secondary-canceled)"
+              }
+            }
+          }
+        },
+        "paid": {
+          "$type": "color",
+          "$value": "{apple.100}",
+          "$description": "",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FRAME_FILL"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--stateinvoice-background-secondary-paid)",
+                "ANDROID": "var(--stateinvoice-background-secondary-paid)",
+                "iOS": "var(--stateinvoice-background-secondary-paid)"
+              }
+            }
+          }
+        },
+        "approved": {
+          "$type": "color",
+          "$value": "{apple.200}",
+          "$description": "",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FRAME_FILL"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--stateinvoice-background-secondary-approved)",
+                "ANDROID": "var(--stateinvoice-background-secondary-approved)",
+                "iOS": "var(--stateinvoice-background-secondary-approved)"
+              }
+            }
+          }
+        },
+        "partially approved": {
+          "$type": "color",
+          "$value": "{apple.200}",
+          "$description": "",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FRAME_FILL"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--stateinvoice-background-secondary-partially-approved)",
+                "ANDROID": "var(--stateinvoice-background-secondary-partially-approved)",
+                "iOS": "var(--stateinvoice-background-secondary-partially-approved)"
+              }
+            }
+          }
+        },
+        "payment submitted": {
+          "$type": "color",
+          "$value": "{apple.200}",
+          "$description": "",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FRAME_FILL"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--stateinvoice-background-secondary-payment-submitted)",
+                "ANDROID": "var(--stateinvoice-background-secondary-payment-submitted)",
+                "iOS": "var(--stateinvoice-background-secondary-payment-submitted)"
+              }
+            }
+          }
+        },
+        "completed": {
+          "$type": "color",
+          "$value": "{apple.200}",
+          "$description": "",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FRAME_FILL"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--stateinvoice-background-secondary-completed)",
+                "ANDROID": "var(--stateinvoice-background-secondary-completed)",
+                "iOS": "var(--stateinvoice-background-secondary-completed)"
+              }
+            }
+          }
+        },
+        "dispute": {
+          "$type": "color",
+          "$value": "{yellow.100}",
+          "$description": "",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FRAME_FILL"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--stateinvoice-background-secondary-dispute)",
+                "ANDROID": "var(--stateinvoice-background-secondary-dispute)",
+                "iOS": "var(--stateinvoice-background-secondary-dispute)"
+              }
+            }
+          }
+        },
+        "suspended": {
+          "$type": "color",
+          "$value": "{yellow.100}",
+          "$description": "",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FRAME_FILL"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--stateinvoice-background-secondary-suspended)",
+                "ANDROID": "var(--stateinvoice-background-secondary-suspended)",
+                "iOS": "var(--stateinvoice-background-secondary-suspended)"
+              }
+            }
+          }
+        },
+        "received": {
+          "$type": "color",
+          "$value": "{gray cold.300}",
+          "$description": "",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FRAME_FILL"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--stateinvoice-background-secondary-received)",
+                "ANDROID": "var(--stateinvoice-background-secondary-received)",
+                "iOS": "var(--stateinvoice-background-secondary-received)"
+              }
+            }
+          }
+        },
+        "declined": {
+          "$type": "color",
+          "$value": "{red.300}",
+          "$description": "",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FRAME_FILL"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--stateinvoice-background-secondary-declined)",
+                "ANDROID": "var(--stateinvoice-background-secondary-declined)",
+                "iOS": "var(--stateinvoice-background-secondary-declined)"
+              }
+            }
+          }
+        },
+        "rejected": {
+          "$type": "color",
+          "$value": "{red.300}",
+          "$description": "",
+          "$extensions": {
+            "com.figma": {
+              "hiddenFromPublishing": false,
+              "scopes": [
+                "FRAME_FILL"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--stateinvoice-background-secondary-rejected)",
+                "ANDROID": "var(--stateinvoice-background-secondary-rejected)",
+                "iOS": "var(--stateinvoice-background-secondary-rejected)"
+              }
+            }
+          }
+        }
       }
     },
     "icon": {
